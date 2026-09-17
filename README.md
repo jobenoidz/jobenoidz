@@ -1,8 +1,27 @@
-## Hi there 👋
+# Hi there 👋
 
 I am a BS Computer Science graduate from the University of the Philippines - Los Baños (Class of 2026) with a strong interests in data science, AI/ML development, full-stack development. 
 
-### 🛠️ Tech Stack
+## 💼 Work Experience
+
+### Current:
+**SHS Teacher - ICT Department** | De La Salle University - Dasmariñas *(Aug 2026 - Present)* 
+* Currently teaching "Introduction to Programming: Java" to Senior High School ICT strand students. 
+
+### Previous:
+**Internship - Team Lead** | Rakso CT Makati *(Jun 2025 – Jul 2025)*  
+* Led 5-intern team in developing a CRM prototype; briefed EdTech leaders in client meetings.  
+
+**Project Manager & Backend Developer** | UPLB *(Feb 2025 – Jun 2025)*  
+* Managed 19-member Agile team building a tracking system; built Node.js/MariaDB APIs and handled AWS/Vercel deployments.
+
+**Co-Head - The Innovation Lab 2026** | ACSS UPLB *(Dec 2025 – Mar 2026)*  
+* Co-directed 14 members to launch inaugural hackathon, securing 22 teams (95 participants) nationwide.
+
+**Organization President - UP Alliance of Gamers** | UPLB *(Jun 2024 - Jun 2025)*
+* Coordinated organization efforts to produce an e-sports tournament and monitored fund-raising efforts to generate 100% net income from amount spent.
+
+## 🛠️ Tech Stack
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,6 +43,7 @@ I am a BS Computer Science graduate from the University of the Philippines - Los
 
 **Others**<br>
 ![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 <!--
 **jobenoidz/jobenoidz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
