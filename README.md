@@ -7,7 +7,7 @@ I am a BS Computer Science graduate from the University of the Philippines - Los
 ### Current:
 **SHS Teacher - ICT Department** | De La Salle University - Dasmariñas *(Aug 2026 - Present)* 
 * Currently teaching "Introduction to Programming: Java" to Senior High School ICT strand students. 
-
+---
 ### Previous:
 **Internship - Team Lead** | Rakso CT Makati *(Jun 2025 – Jul 2025)*  
 * Led 5-intern team in developing a CRM prototype; briefed EdTech leaders in client meetings.  
